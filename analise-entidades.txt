@@ -1,0 +1,25 @@
+
+* Empresa
+	Atrib:
+		- lista de Funcionarios : List<Funcionario>
+		- lista de Tarefas : List<Tarefa>
+	Metodos:
+		- relatorio1(mes) : void
+		- relatorio2(mes) : void
+		
+* Funcionario
+	Atrib:
+	- lista de tarefas
+	- Nome
+	- ID
+	Metodos
+	- calcularSalario(mes) : double
+	
+	
+* Tarefa
+	Atrib:
+	- duracao 
+	- descricao
+	- mes
+	
+Nota: faltam construtores e alguns metodos (getters, setters, "associadores").
